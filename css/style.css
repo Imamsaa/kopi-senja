@@ -233,8 +233,8 @@ html {
     flex: 1 1 5rem;
     /* width: 5rem; */
     min-height: 30rem;
-    background-color: green;
-    object-fit: cover;
+    /* background-color: green; */
+    /* object-fit: cover; */
 }
 
 .contact .row form {
